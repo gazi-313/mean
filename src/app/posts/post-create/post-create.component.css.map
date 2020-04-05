@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;QACS;EACP,KAAK,EAAE,IAAI",
+"sources": ["post-create.component.scss"],
+"names": [],
+"file": "post-create.component.css"
+}
